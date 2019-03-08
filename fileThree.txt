@@ -1,5 +1,0 @@
-adding some line of text.
-Committing the changes from my-roject directory.
-amending the commit after pushing the changes.
-aommitting before amending the changes.
- I start working on a feature
